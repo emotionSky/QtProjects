@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+ <name>qt_ros</name>
+ <version>1.0.0</version>
+ <description>The qt_ros package</description>
+
+ <maintainer email="bitdreamsky@126.com">emotionsky</maintainer>
+
+ <license>TODO</license>
+
+ <buildtool_depend>catkin</buildtool_depend>
+ <depend>roscpp</depend>
+ <depend>std_msgs</depend>
+
+</package>
+

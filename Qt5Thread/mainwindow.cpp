@@ -1,3 +1,12 @@
+/**
+ * @file  mainwindow.cpp
+ * @brief UI对应处理
+ * @details 包含程序框架、线程入口等
+ * @author  emotionsky
+ * @date    2022-5-4
+ * @version V1.0
+ * @copyright  Copyright (c) 2050
+ */
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QDebug>
